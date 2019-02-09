@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance.WebApi", "Finance.WebApi\Finance.WebApi.csproj", "{AA33115B-09E4-4616-A19C-2FC4D3D9FFF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance.UI", "Finance.UI\Finance.UI.csproj", "{71C44D18-74D2-4993-B940-EE0CD915657C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AA33115B-09E4-4616-A19C-2FC4D3D9FFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA33115B-09E4-4616-A19C-2FC4D3D9FFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA33115B-09E4-4616-A19C-2FC4D3D9FFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C44D18-74D2-4993-B940-EE0CD915657C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C44D18-74D2-4993-B940-EE0CD915657C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C44D18-74D2-4993-B940-EE0CD915657C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C44D18-74D2-4993-B940-EE0CD915657C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

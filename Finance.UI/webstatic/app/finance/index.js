@@ -1,4 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Welcome from "../welcomeApp/Welcome/Welcome";
 
-ReactDOM.render(<h1>Hello</h1>, document.getElementById("app"));
+ReactDOM.render(<Welcome/>, document.getElementById("app"));
